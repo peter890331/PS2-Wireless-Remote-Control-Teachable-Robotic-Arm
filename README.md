@@ -19,4 +19,6 @@ Awards：
     <img src= "https://github.com/peter890331/PS2-Wireless-Remote-Control-Teachable-Robotic-Arm/assets/91075744/d5f3091f-4f39-403d-b437-b7eefb54aa4c" width="300px">
 
 2. Merit Award in 全國高級中等學校專業群科107年專題製作競賽  
+    <img src= "https://github.com/peter890331/PS2-Wireless-Remote-Control-Teachable-Robotic-Arm/assets/91075744/49d9fcea-e167-4223-be5f-977e2597444c" width="300px">
+    
     <img src= "https://github.com/peter890331/PS2-Wireless-Remote-Control-Teachable-Robotic-Arm/assets/91075744/4934b1a4-5b02-4736-aca8-eb09b294dc7f" width="300px">
