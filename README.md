@@ -1,4 +1,4 @@
-### PS2無線遙控教導式機械手臂
+### PS2 無線遙控教導式機械手臂
 ### PS2-Wireless-Remote-Control-Teachable-Robotic-Arm
 ---
 > A graduation project in high school
